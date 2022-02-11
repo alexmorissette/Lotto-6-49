@@ -1,0 +1,14 @@
+D:\MULTIHEXA\P24 - Programmation Structurée\TP1 - Lotto649\TP1Lotto649_V4\TP1Lotto649_V4\bin\Debug\TP1Lotto649_V4.exe.config
+D:\MULTIHEXA\P24 - Programmation Structurée\TP1 - Lotto649\TP1Lotto649_V4\TP1Lotto649_V4\bin\Debug\TP1Lotto649_V4.exe
+D:\MULTIHEXA\P24 - Programmation Structurée\TP1 - Lotto649\TP1Lotto649_V4\TP1Lotto649_V4\bin\Debug\TP1Lotto649_V4.pdb
+D:\MULTIHEXA\P24 - Programmation Structurée\TP1 - Lotto649\TP1Lotto649_V4\TP1Lotto649_V4\obj\Debug\TP1Lotto649_V4.csprojAssemblyReference.cache
+D:\MULTIHEXA\P24 - Programmation Structurée\TP1 - Lotto649\TP1Lotto649_V4\TP1Lotto649_V4\obj\Debug\TP1Lotto649_V4.csproj.CoreCompileInputs.cache
+D:\MULTIHEXA\P24 - Programmation Structurée\TP1 - Lotto649\TP1Lotto649_V4\TP1Lotto649_V4\obj\Debug\TP1Lotto649_V4.exe
+D:\MULTIHEXA\P24 - Programmation Structurée\TP1 - Lotto649\TP1Lotto649_V4\TP1Lotto649_V4\obj\Debug\TP1Lotto649_V4.pdb
+D:\MULTIHEXA\P24 - Programmation Structurée\TP1 - Lotto649\TP1Lotto649_Final\TP1Lotto649_V4\bin\Debug\TP1Lotto649_V4.exe.config
+D:\MULTIHEXA\P24 - Programmation Structurée\TP1 - Lotto649\TP1Lotto649_Final\TP1Lotto649_V4\bin\Debug\TP1Lotto649_V4.exe
+D:\MULTIHEXA\P24 - Programmation Structurée\TP1 - Lotto649\TP1Lotto649_Final\TP1Lotto649_V4\bin\Debug\TP1Lotto649_V4.pdb
+D:\MULTIHEXA\P24 - Programmation Structurée\TP1 - Lotto649\TP1Lotto649_Final\TP1Lotto649_V4\obj\Debug\TP1Lotto649_V4.csprojAssemblyReference.cache
+D:\MULTIHEXA\P24 - Programmation Structurée\TP1 - Lotto649\TP1Lotto649_Final\TP1Lotto649_V4\obj\Debug\TP1Lotto649_V4.csproj.CoreCompileInputs.cache
+D:\MULTIHEXA\P24 - Programmation Structurée\TP1 - Lotto649\TP1Lotto649_Final\TP1Lotto649_V4\obj\Debug\TP1Lotto649_V4.exe
+D:\MULTIHEXA\P24 - Programmation Structurée\TP1 - Lotto649\TP1Lotto649_Final\TP1Lotto649_V4\obj\Debug\TP1Lotto649_V4.pdb
